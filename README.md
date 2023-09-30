@@ -82,16 +82,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd to your desired folder
-  git clone https://github.com/MohamedRoshdy2021/metrics-app.git
-### Install
-
-Install this project with:
-  install node_modules by this command : npm i
-
-then:
-
-run this command: npm run start
-
+  git clone https://github.com/MohamedRoshdy2021/Portfolio-V2
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
